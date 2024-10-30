@@ -1,3 +1,5 @@
 grape
 banana
 apple
+pear
+strawberry
